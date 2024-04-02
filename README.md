@@ -66,16 +66,16 @@
 <!-- https://icons8.com -->
 <div align="center">
   
-  <a href="https://www.facebook.com/angutboiz/" target="blank">
+  <a href="https://www.facebook.com/angutboiz/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="troandev-facebook" />
   </a>
-  <a href="https://www.youtube.com/@trongan1909" target="blank">
+  <a href="https://www.youtube.com/@trongan1909" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="troandev-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/troandev" target="blank">
+  <a href="https://www.linkedin.com/in/troandev" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="troandev-linkedin" />
   </a>
-  <a href="https://www.instagram.com/angutboiz/" target="blank">
+  <a href="https://www.instagram.com/angutboiz/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="troandev-instagram" />
   </a>
   <a href="mailto:troandev@gmail.com" target="top">
@@ -93,4 +93,4 @@
 </a>
 <h2 align="center">Website E-Commerce with framework ASP.NET, ReactJS, NodeJS, SQL Server, MongoDB, NextJS</h2>
 <br>
-<a href="https://fruitkha.somee.com/" target="blank">ASP.NET E-Commerce</a>
+<a href="https://fruitkha.somee.com/" target="_blank">ASP.NET E-Commerce</a>
