@@ -50,10 +50,10 @@
 <br>
 <div align=center>
   <a href="#" title="troandev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angutboiz&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trongandev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="troandev">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=angutboiz&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=trongandev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
@@ -72,15 +72,15 @@
   <a href="https://www.linkedin.com/in/troandev" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="troandev-linkedin" />
   </a>
-  <a href="mailto:troandev@gmail.com" target="top">
+  <a href="mailto:trongandev@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="troandev-email" />
   </a>
 </div>
 
 <br>
 
-<h2 align="center">Website E-Commerce with framework ASP.NET, ReactJS, NodeJS, SQL Server, MongoDB, NextJS</h2>
+<h2 align="center">TOP WEBSITE</h2>
 <br>
-<a href="https://fruitkha.somee.com/" target="_blank">ASP.NET E-Commerce</a>
+<a href="https://quizzet.site/" target="_blank">Quizzet - AI Flashcard</a>
 <br>
 <a href="https://cakol.id.vn/" target="_blank">NextJS E-Commerce</a>
