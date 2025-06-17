@@ -2,7 +2,9 @@
 <a href="#" target="_blank">
   <img src="svg/troandev.svg" width="1200" alt="troandev-official" />
 </a>
-
+<a href="https://trongandev.vercel.app/"  target="_blank">
+  <h2 align="center">🤩 Click to see portfolio 😍</h2>
+</a>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
